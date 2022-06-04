@@ -7,29 +7,8 @@
 Sou Arquiteta/Urbanista e estou iniciando a transição de carreira para a área de Desenvolvimento.
 
 <details>
-  <summary> Saiba mais sobre mim</summary>
-<div align="left">
- 
-``` js
-const stebs = {
-    personal: {
-        Nome: 'Gisele dos Santos Lopes',
-        Nascimento: '04-09-1992',
-        pronomes: 'ela/dela',   
-    },
-        Tecnologias (estudando): {
-            frontEnd: {
-                Javascript,
-                HTML,
-                CSS,
-            },
-            backEnd: {
-                Javascript=
-            }
-    }
-}
-```
-  </div>
+  <summary> JavaScript | HTML5 | CSS3 | JAVA </summary>
+
 </details>
 
 [![Linkedin: devgiselelopes](https://img.shields.io/badge/-lopesgix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lopesgix/)](https://www.linkedin.com/in/devgiselelopes/)
